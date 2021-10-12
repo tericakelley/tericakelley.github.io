@@ -39,8 +39,8 @@ body {
 main {
   text-align: center;
   font-family: 'Courier New', Courier, monospace, sans-serif;
-  color: #696969;
-  background-color: black;
+  color: black;
+  background-color: #E6E8E6;
   margin-top: 0px;
   margin-bottom: 0px;
   padding: 10px;
