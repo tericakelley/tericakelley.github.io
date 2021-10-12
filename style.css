@@ -1,11 +1,11 @@
-header {
+header { /* header paired with nav */
   text-align: left;
   background-color: #3F403F;
   margin: 0;
   padding: 0;
 }
 
-.fa {
+.fa { /* for all four logos (portfolio, LinkedIn, GitHub, Slack) */
   color: white;
   padding: 10px;
   font-size: 30px;
@@ -15,12 +15,12 @@ header {
   border-radius: 50%;
 }
 
-nav {
+nav { /* contains all logos and links to my social media */
   background-color: #B07156;
   text-align: right;
 }
 
-.phrase {
+.phrase { */Design, Develop, Deliver ; possibly make the font smaller or use different font-family */
   background-color: #F4F5F4;
   text-align: center;
   font-size: 50px;
